@@ -90,3 +90,30 @@ tr{
   background-color: white;
 }
 /* /stile tabella */
+
+/* stile footer */
+.title-box{
+  color: rgb(140, 140, 140);
+  font-size: 14px;
+}
+
+.box1, .box2{
+  color: white;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-weight: bold;
+  height: 220px;
+  position: relative;
+}
+.box1{
+  background-image: url(../img/monitor.jpg);
+}
+.box2{
+  background-image: url(../img/graph.jpg);
+}
+
+.text-box{
+  position: absolute;
+  top: 10px;
+  left: 15px;
+}
