@@ -35,8 +35,17 @@ main{
   color: rgb(31, 203, 255);
 }
 
-p{
+/* stile sezione blocco testi */
+p,ul{
   font-size: 12px;
   font-weight: bold;
+  margin-bottom: 20px;
 }
 
+.text-highlighted{
+  background-color: yellow;
+}
+
+ul{
+  margin-left: 12px;
+}
