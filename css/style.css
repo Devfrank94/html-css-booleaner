@@ -3,3 +3,20 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* stile header e logo */
+
+header{
+  height: 170px;
+  background-image: url(../img/pattern.png);
+  background-color: rgb(28, 174, 237);
+  position: relative;
+}
+
+.head-title img{
+  width: 250px;
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
+
