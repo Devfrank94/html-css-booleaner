@@ -20,3 +20,23 @@ header{
   bottom: 15px;
 }
 
+main{
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.credits{
+  color: rgb(140, 140, 140);
+  font-size: 14px;
+}
+
+.credits span{
+  color: rgb(31, 203, 255);
+}
+
+p{
+  font-size: 12px;
+  font-weight: bold;
+}
+
